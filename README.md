@@ -1,11 +1,6 @@
 <h2 align="center">Hello, I'm <a href="https://biswajitsharma.online"> Biswajit </a></h2>
-<h4 align="center">A Full-Stack web developer from ODISHA</h4>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=biswajitnathasharma&label=Profile%20views&color=0e75b6&style=flat" alt="biswajitnathasharma" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswajitnathasharma" alt="biswajitnathasharma" /></a> </p>
-<h3 align="center"><strong>Connect with me:</strong></h3>
-
+<h4 align="center">A Full-Stack web developer from ODISHA </h4>
 <h3 align="center"><u> Languages and Tools: </u></h3>
 <p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -21,9 +16,8 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswajitnathasharma" alt="biswajitnathasharma" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajitnathasharma&show_icons=true&locale=en&layout=compact" alt="biswajitnathasharma" /></p>
-
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajitnathasharma&" alt="biswajitnathasharma" /></p>
 
 
